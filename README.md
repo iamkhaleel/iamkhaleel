@@ -1,7 +1,7 @@
 👋 Hi, I'm Ibrahim Suleiman
 
 
-# Senior Software Engineer | Mobile & Frontend · Flutter · React Native · React/Next.js · TypeScript
+### Senior Software Engineer | Mobile & Frontend · Flutter · React Native · React/Next.js · TypeScript
 I'm a Mobile & Full-Stack Engineer passionate about building clean, high-performance apps that people actually use. With 6+ years of experience, I’ve designed, shipped, and maintained production applications across Android, iOS, and web — from real-time messaging and e-commerce to multi-tenant dashboards and fintech-style products.<br><br>I care about solid architecture, maintainable code, strong UI/UX, and owning features end to end: from design implementation and API integration through performance, testing, and App Store / Play Store release. My core stack is Flutter, React Native, React/Next.js, and TypeScript, with hands-on work in Node.js, REST APIs, and Firebase.<br><br>I enjoy solving real product problems, collaborating closely with design and backend teams, and continuously improving how software gets built and delivered.
 
 
